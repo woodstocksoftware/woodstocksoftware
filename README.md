@@ -25,12 +25,9 @@ After 25+ years architecting distributed systems and leading cloud migrations, I
 
 ### Featured Projects
 
-<!-- PIN YOUR BEST PROJECTS - Update these as you build -->
-
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚧 Coming Soon | RAG Documentation Assistant | LangChain, OpenSearch, AWS Lambda |
-| 🚧 Coming Soon | AI Agent Workflow | LangGraph, Spring AI |
+| [RAG Documentation Assistant](https://github.com/woodstocksoftware/rag-documentation-assistant) | Ask questions, get cited answers from your docs | Python, Claude, ChromaDB |
 
 ---
 
@@ -50,7 +47,3 @@ I'm available for consulting on production AI systems.
 
 📧 **jim@woodstocksoftware.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/woodstocksoftware/)
-
----
-
-<sub>*The AI world needs more people who understand what happens at 3 AM when the system breaks.*</sub>
