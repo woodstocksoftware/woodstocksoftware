@@ -1,49 +1,45 @@
-# Hey, I'm Jim 👋
+# Jim Williams
 
-**AI Engineer & Software Architect** building production-ready LLM applications.
+**AI Engineer & Software Architect** | Building production-ready AI systems
 
-After 25+ years architecting distributed systems and leading cloud migrations, I'm focused on what I believe matters most right now: **AI that actually works in production**.
+## 🚀 Featured Projects
 
----
+### [RAG Documentation Assistant](https://github.com/woodstocksoftware/rag-documentation-assistant)
+Production RAG system deployed on AWS serverless. Upload documents, ask questions, get cited answers.
 
-### What I'm Building
+`Python` `AWS Lambda` `OpenSearch` `Claude` `Bedrock` `SAM`
 
-🔍 **RAG Systems** — Retrieval-augmented generation that gives LLMs access to your data  
-🤖 **LLM Applications** — Production-grade apps with proper error handling and observability  
-☁️ **Serverless AI on AWS** — Scalable architectures that don't break the bank
-
----
-
-### Tech I Work With
-
-**AI/ML:** LangChain · Spring AI · RAG · Prompt Engineering · Amazon Comprehend  
-**Cloud:** AWS Lambda · DynamoDB · OpenSearch · SQS/SNS · EventBridge · Step Functions  
-**Languages:** Java · Python · Spring Boot · Node.js  
-**Observability:** OpenTelemetry · Prometheus · Grafana
+**Highlights:**
+- Serverless architecture (Lambda, API Gateway, SQS)
+- Vector search with OpenSearch Serverless
+- API authentication + rate limiting
+- CloudWatch dashboards + alerting
 
 ---
 
-### Featured Projects
+### [Research Agent](https://github.com/woodstocksoftware/research-agent)
+Autonomous AI agent that researches any topic and produces comprehensive reports with citations.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [RAG Documentation Assistant](https://github.com/woodstocksoftware/rag-documentation-assistant) | Ask questions, get cited answers from your docs | Python, Claude, ChromaDB |
+`Python` `Claude` `Tavily` `AI Agents`
 
----
-
-### Background
-
-- 🏢 Principal Software Architect at Business Wire, Renaissance Learning, Amplify
-- 🧠 Built ML-powered text classification with human-in-the-loop feedback loops
-- ☁️ Led enterprise data center → AWS cloud migrations
-- 🎖️ Navy veteran (USS Arleigh Burke)
-- 🎓 AWS Certified Solutions Architect
+**Highlights:**
+- Multi-step reasoning (plan → search → analyze → synthesize)
+- Automatic gap detection and iterative research
+- 15-20 cited sources per report
+- Built with pure Python (no frameworks)
 
 ---
 
-### Let's Connect
+## 💡 What I Do
 
-I'm available for consulting on production AI systems.
+I help companies build **production-ready AI applications**—not prototypes that break at scale.
 
-📧 **jim@woodstocksoftware.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/woodstocksoftware/)
+- RAG systems & document intelligence
+- AI agents & automation
+- AWS serverless architecture
+- LLM integration & prompt engineering
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/woodstocksoftware)
+- 📧 jim@woodstocksoftware.com
