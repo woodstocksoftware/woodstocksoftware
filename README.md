@@ -32,17 +32,17 @@ Real-time quiz application with WebSocket communication and server-authoritative
 
 ---
 
+### [Real-Time Event Pipeline](https://github.com/woodstocksoftware/realtime-event-pipeline)
+Event ingestion, routing, and pub/sub system for real-time applications.
+
+`FastAPI` `WebSocket` `Pub/Sub` `Event-Driven`
+
+---
+
 ### [Learning Curriculum Builder](https://github.com/woodstocksoftware/learning-curriculum-builder)
 MCP server for designing curricula with learning objectives, prerequisites, and optimal learning paths.
 
 `MCP` `Claude Desktop` `Curriculum Design` `Bloom's Taxonomy`
-
----
-
-### [Student Progress Tracker](https://github.com/woodstocksoftware/student-progress-tracker)
-MCP server that tracks student performance, calculates mastery levels, and identifies learning gaps.
-
-`MCP` `Claude Desktop` `Learning Analytics` `Education`
 
 ---
 
@@ -54,7 +54,7 @@ MCP server that tracks student performance, calculates mastery levels, and ident
 | **AI Agents** | Tool use, multi-step reasoning, autonomous workflows |
 | **Voice AI** | Whisper, ElevenLabs, real-time speech |
 | **MCP Servers** | Claude Desktop integrations, custom tools |
-| **Real-time Apps** | WebSockets, FastAPI, React |
+| **Real-time Apps** | WebSockets, FastAPI, React, Pub/Sub |
 | **AWS Serverless** | Lambda, API Gateway, S3, SQS, SAM |
 
 ## 🎯 Industries
