@@ -32,10 +32,10 @@ Real-time quiz application with WebSocket communication and server-authoritative
 
 ---
 
-### [Question Bank MCP](https://github.com/woodstocksoftware/question-bank-mcp)
-MCP server for teachers to create and manage test questions with Bloom's taxonomy and difficulty ratings.
+### [Learning Curriculum Builder](https://github.com/woodstocksoftware/learning-curriculum-builder)
+MCP server for designing curricula with learning objectives, prerequisites, and optimal learning paths.
 
-`MCP` `Claude Desktop` `Education` `Assessment`
+`MCP` `Claude Desktop` `Curriculum Design` `Bloom's Taxonomy`
 
 ---
 
