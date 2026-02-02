@@ -9,20 +9,12 @@ Production RAG system deployed on AWS. Upload documents, ask questions, get cite
 
 `AWS Lambda` `OpenSearch Serverless` `Claude` `Bedrock` `SAM`
 
-- Serverless architecture with auto-ingestion
-- Vector search with k-NN
-- API authentication + CloudWatch monitoring
-
 ---
 
 ### [Research Agent](https://github.com/woodstocksoftware/research-agent)
 Autonomous AI agent that researches any topic and produces comprehensive reports with citations.
 
 `Claude` `Tavily` `AWS Lambda` `AI Agents`
-
-- Multi-step reasoning (plan → search → analyze → synthesize)
-- 30-40 findings from 20-30 sources per report
-- Deployed on AWS Lambda
 
 ---
 
@@ -31,10 +23,6 @@ Voice-powered AI assistant. Speak your question, get a spoken answer from the kn
 
 `Whisper` `ElevenLabs` `ChromaDB` `Claude` `Gradio`
 
-- Local speech-to-text with Whisper
-- Natural text-to-speech with ElevenLabs
-- Real-time voice interaction
-
 ---
 
 ### [Hotel Concierge MCP](https://github.com/woodstocksoftware/hotel-concierge-mcp)
@@ -42,9 +30,12 @@ MCP server that enables Claude to act as a hotel concierge—reservations, avail
 
 `MCP` `Claude Desktop` `Python` `SQLite`
 
-- 7 tools: availability, reservations, service requests
-- Integrates with Claude Desktop
-- Extensible to real property management systems
+---
+
+### [Question Bank MCP](https://github.com/woodstocksoftware/question-bank-mcp)
+MCP server for teachers to create and manage test questions with Bloom's taxonomy and difficulty ratings.
+
+`MCP` `Claude Desktop` `Education` `Assessment`
 
 ---
 
@@ -57,6 +48,11 @@ MCP server that enables Claude to act as a hotel concierge—reservations, avail
 | **Voice AI** | Whisper, ElevenLabs, real-time speech |
 | **MCP Servers** | Claude Desktop integrations, custom tools |
 | **AWS Serverless** | Lambda, API Gateway, S3, SQS, SAM |
+
+## 🎯 Industries
+
+- **Hospitality** — AI concierge, operations management
+- **Education** — Assessment tools, adaptive learning
 
 ## 📫 Let's Connect
 
