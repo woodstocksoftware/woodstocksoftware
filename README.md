@@ -39,10 +39,10 @@ Event ingestion, routing, and pub/sub system for real-time applications.
 
 ---
 
-### [Simple Quiz Engine](https://github.com/woodstocksoftware/simple-quiz-engine)
-Real-time quiz application with WebSocket communication and server-authoritative timing.
+### [Synchronized Timer Service](https://github.com/woodstocksoftware/synchronized-timer-service)
+Server-authoritative timer for proctored testing with real-time WebSocket sync.
 
-`FastAPI` `WebSocket` `React` `Real-time`
+`FastAPI` `WebSocket` `Proctoring` `Real-time`
 
 ---
 
