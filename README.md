@@ -25,10 +25,10 @@ Voice-powered AI assistant. Speak your question, get a spoken answer from the kn
 
 ---
 
-### [Simple Quiz Engine](https://github.com/woodstocksoftware/simple-quiz-engine)
-Real-time quiz application with WebSocket communication and server-authoritative timing.
+### [Adaptive Question Selector](https://github.com/woodstocksoftware/adaptive-question-selector)
+IRT-based adaptive testing engine with real-time question selection and ability estimation.
 
-`FastAPI` `WebSocket` `React` `Real-time`
+`IRT` `Psychometrics` `FastAPI` `Adaptive Testing`
 
 ---
 
@@ -39,10 +39,10 @@ Event ingestion, routing, and pub/sub system for real-time applications.
 
 ---
 
-### [Learning Curriculum Builder](https://github.com/woodstocksoftware/learning-curriculum-builder)
-MCP server for designing curricula with learning objectives, prerequisites, and optimal learning paths.
+### [Simple Quiz Engine](https://github.com/woodstocksoftware/simple-quiz-engine)
+Real-time quiz application with WebSocket communication and server-authoritative timing.
 
-`MCP` `Claude Desktop` `Curriculum Design` `Bloom's Taxonomy`
+`FastAPI` `WebSocket` `React` `Real-time`
 
 ---
 
@@ -55,6 +55,7 @@ MCP server for designing curricula with learning objectives, prerequisites, and 
 | **Voice AI** | Whisper, ElevenLabs, real-time speech |
 | **MCP Servers** | Claude Desktop integrations, custom tools |
 | **Real-time Apps** | WebSockets, FastAPI, React, Pub/Sub |
+| **Adaptive Learning** | IRT, psychometrics, ability estimation |
 | **AWS Serverless** | Lambda, API Gateway, S3, SQS, SAM |
 
 ## 🎯 Industries
