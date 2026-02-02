@@ -37,6 +37,17 @@ Voice-powered AI assistant. Speak your question, get a spoken answer from the kn
 
 ---
 
+### [Hotel Concierge MCP](https://github.com/woodstocksoftware/hotel-concierge-mcp)
+MCP server that enables Claude to act as a hotel concierge—reservations, availability, guest services.
+
+`MCP` `Claude Desktop` `Python` `SQLite`
+
+- 7 tools: availability, reservations, service requests
+- Integrates with Claude Desktop
+- Extensible to real property management systems
+
+---
+
 ## 💡 What I Build
 
 | Capability | Technologies |
@@ -44,8 +55,8 @@ Voice-powered AI assistant. Speak your question, get a spoken answer from the kn
 | **RAG Systems** | OpenSearch, ChromaDB, Bedrock, embeddings |
 | **AI Agents** | Tool use, multi-step reasoning, autonomous workflows |
 | **Voice AI** | Whisper, ElevenLabs, real-time speech |
+| **MCP Servers** | Claude Desktop integrations, custom tools |
 | **AWS Serverless** | Lambda, API Gateway, S3, SQS, SAM |
-| **LLM Integration** | Claude, prompt engineering, structured outputs |
 
 ## 📫 Let's Connect
 
