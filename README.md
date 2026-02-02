@@ -26,7 +26,7 @@ Voice-powered AI assistant. Speak your question, get a spoken answer from the kn
 ---
 
 ### [Hotel Concierge MCP](https://github.com/woodstocksoftware/hotel-concierge-mcp)
-MCP server that enables Claude to act as a hotel concierge—reservations, availability, guest services.
+MCP server enabling Claude to act as a hotel concierge—reservations, availability, guest services.
 
 `MCP` `Claude Desktop` `Python` `SQLite`
 
@@ -36,6 +36,13 @@ MCP server that enables Claude to act as a hotel concierge—reservations, avail
 MCP server for teachers to create and manage test questions with Bloom's taxonomy and difficulty ratings.
 
 `MCP` `Claude Desktop` `Education` `Assessment`
+
+---
+
+### [Student Progress Tracker](https://github.com/woodstocksoftware/student-progress-tracker)
+MCP server that tracks student performance, calculates mastery levels, and identifies learning gaps.
+
+`MCP` `Claude Desktop` `Learning Analytics` `Education`
 
 ---
 
@@ -52,7 +59,7 @@ MCP server for teachers to create and manage test questions with Bloom's taxonom
 ## 🎯 Industries
 
 - **Hospitality** — AI concierge, operations management
-- **Education** — Assessment tools, adaptive learning
+- **Education** — Assessment tools, learning analytics, adaptive learning
 
 ## 📫 Let's Connect
 
