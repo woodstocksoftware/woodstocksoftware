@@ -25,10 +25,10 @@ Voice-powered AI assistant. Speak your question, get a spoken answer from the kn
 
 ---
 
-### [Hotel Concierge MCP](https://github.com/woodstocksoftware/hotel-concierge-mcp)
-MCP server enabling Claude to act as a hotel concierge—reservations, availability, guest services.
+### [Simple Quiz Engine](https://github.com/woodstocksoftware/simple-quiz-engine)
+Real-time quiz application with WebSocket communication and server-authoritative timing.
 
-`MCP` `Claude Desktop` `Python` `SQLite`
+`FastAPI` `WebSocket` `React` `Real-time`
 
 ---
 
@@ -54,6 +54,7 @@ MCP server that tracks student performance, calculates mastery levels, and ident
 | **AI Agents** | Tool use, multi-step reasoning, autonomous workflows |
 | **Voice AI** | Whisper, ElevenLabs, real-time speech |
 | **MCP Servers** | Claude Desktop integrations, custom tools |
+| **Real-time Apps** | WebSockets, FastAPI, React |
 | **AWS Serverless** | Lambda, API Gateway, S3, SQS, SAM |
 
 ## 🎯 Industries
